@@ -1,16 +1,18 @@
 {
   "name": "rechartool-analyzer-sheet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "homepage ": "https://m3ntru.github.io/rechartool-analyzer-sheet",
+  "homepage": "https://m3ntru.github.io/rechartool-analyzer-sheet",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
     "gh-pages": "^4.0.0",
+    "linebyline": "^1.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
+    "readline": "^1.3.0",
     "recharts": "^2.1.12",
     "web-vitals": "^2.1.0"
   },
